@@ -2,6 +2,7 @@ site_name: Wizeline MkDocs Template
 nav:
   - Home: index.md
   - About: about.md
+  - Contact: contact-page.md
 
 theme:
   name: material
