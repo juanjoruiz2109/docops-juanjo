@@ -1,12 +1,16 @@
-site_name: Wizeline MkDocs Template
+site_name: Static Site
+
 nav:
   - Home: index.md
   - About: about.md
   - Contact: contact-page.md
+  - Test: test.md
+  - 'Expandable Section':
+    - 'Child Page': 'child.md'
 
 theme:
   name: material
-  palette:
-    primary: black
-    accent: indigo
   logo: images/wizeline_isotype.png
+  
+extra_css:
+  - css/extra.css
