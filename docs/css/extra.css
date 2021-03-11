@@ -14,7 +14,7 @@
 
 /* Main background*/
 .md-main {
-    background-color: rgb(218, 211, 211);
+    background-color: rgb(255, 255, 255);
 }
 
 /* Headings  h1 */
@@ -33,7 +33,7 @@
 
 /* Paragraph */
 p {
-    color: rgb(0, 0, 0);
+    color: rgb(10, 40, 97);
 }
 
 /* Unsorted list */
