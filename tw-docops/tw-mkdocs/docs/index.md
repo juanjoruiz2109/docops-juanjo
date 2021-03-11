@@ -2,7 +2,9 @@
 
 ## Wizeline DocOps Template
 
-Welcome to the DocOps Template
+Welcome to the DocOps Template.
+
+This is the first change.
 
 ## Adding Information to the Page
 
