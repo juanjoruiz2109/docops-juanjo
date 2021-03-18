@@ -1,3 +1,4 @@
 # docops-juanjo
 
-## Static Site within ´´´docs´´´/
+* Static Site (html): ```docs/``` and ```temp/site```
+* Markdown source (md): ```temp/docs```
