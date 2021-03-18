@@ -1,4 +1,4 @@
 # docops-juanjo
 
-* Static Site (html): ```docs/``` and ```temp/site```
-* Markdown source (md): ```temp/docs```
+* Markdown source (md): ```util/docs```
+* Static Site (html): ```docs/``` and ```util/site```. These files are generated after running mkdocs build.
