@@ -4,9 +4,6 @@ nav:
   - Home: index.md
   - About: about.md
   - Contact: contact-page.md
-  - Test: test.md
-  - 'Expandable Section':
-    - 'Child Page': 'child.md'
 
 theme:
   name: material

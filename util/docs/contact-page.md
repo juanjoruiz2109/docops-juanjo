@@ -1,3 +1,3 @@
 # Contact Page
 
-Contact me if you need me.
+You can find more information about my career at [LinkedIn](https://www.google.com).
