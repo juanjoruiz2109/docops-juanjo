@@ -9,8 +9,11 @@ nav:
     - 'Advanced': 'advanced-skills.md'
     - 'Intermediate': 'intermediate-skills.md'
     - 'Novice': 'novice-skills.md'
-    - 'Skills Pending Assessment' : 'pa-skills.md'
+    - 'Pending Assessment' : 'pa-skills.md'
   - Certifications: certifications.md
+  - 'Project Assignments':
+    - Current: 'current-project-assignments.md'
+    - Past: 'past-project-assignments.md'
   - Contact: contact-page.md
 
 theme:
