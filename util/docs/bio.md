@@ -4,7 +4,7 @@
 
 ## Trajectory
 
-Juan José has been a Software Developer for more than five years and a Technical Writer for almost two. He received an Engineer’s Degree after graduating from ITESM CCM, and he worked at Oracle México for four years. More recently, he has decided to further enhance his career by focusing on User Research and Business Analysis.
+Juan José has been a **Software Developer** for more than five years and a **Technical Writer** for almost two. He received an **Engineer’s Degree** after graduating from **ITESM** CCM, and he worked at **Oracle** México for four years. More recently, he has decided to further enhance his career by focusing on **User Research** and **Business Analysis**.
 
 ## Projects
 
