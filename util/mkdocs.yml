@@ -1,8 +1,8 @@
-site_name: Static Site
+site_name: Juan José Ruiz | Work Profile
 
 nav:
-  - Home: index.md
-  - About: about.md
+  - Intro: index.md
+  - Bio: bio.md
   - Contact: contact-page.md
 
 theme:

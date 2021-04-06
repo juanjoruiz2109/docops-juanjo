@@ -1,12 +1,15 @@
-# Index Page
+# Intro
 
-## Wizeline DocOps Template
+_**Juan José Ruiz**_
+<br>Technical Writer III
+<br>Currently workings at Guadalajara.
 
-Welcome to the DocOps Template.
+Areas of expertise:
 
-This is the first change. Test.
+* Technical Writing
+* Software Development (Frontend)
 
-## Adding Information to the Page
+
 
 Use Markdown to add information to the pages of your site.
 
