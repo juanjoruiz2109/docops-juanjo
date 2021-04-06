@@ -3,6 +3,14 @@ site_name: Juan José Ruiz | Work Profile
 nav:
   - Intro: index.md
   - Bio: bio.md
+  - 'Skills':
+    - 'Top': 'top-skills.md'
+    - 'Expert': 'expert-skills.md'
+    - 'Advanced': 'advanced-skills.md'
+    - 'Intermediate': 'intermediate-skills.md'
+    - 'Novice': 'novice-skills.md'
+    - 'Skills Pending Assessment' : 'pa-skills.md'
+  - Certifications: certifications.md
   - Contact: contact-page.md
 
 theme:
