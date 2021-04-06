@@ -3,3 +3,5 @@
 * Scrum
 * Information Architecture
 * PLSQL
+* Apex
+* SQL

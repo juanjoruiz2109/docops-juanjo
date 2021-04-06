@@ -14,6 +14,8 @@ nav:
   - 'Project Assignments':
     - Current: 'current-project-assignments.md'
     - Past: 'past-project-assignments.md'
+  - Experience: experience.md
+  - Education: education.md
   - Contact: contact-page.md
 
 theme:
